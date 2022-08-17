@@ -1,4 +1,4 @@
-Heroku URL
+Heroku URL details
 welcome to app- https://movies-app-guvi.herokuapp.com
 Get movie by id- https://movies-app-guvi.herokuapp.com/movies/102
 Get all movies- https://movies-app-guvi.herokuapp.com/movies
